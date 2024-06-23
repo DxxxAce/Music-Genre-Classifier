@@ -8,7 +8,7 @@ This project explores the classification of music genres using deep learning tec
 
 ## Dataset
 
-We used the [GTZAN Dataset](http://marsyasweb.appspot.com/download/data_sets/), a widely used benchmark dataset for music genre classification. The dataset includes 1000 audio tracks each 30 seconds long. The tracks are categorized into 10 genres, with 100 tracks per genre.
+We used the [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification), a widely used benchmark dataset for music genre classification. The dataset includes 1000 audio tracks each 30 seconds long. The tracks are categorized into 10 genres, with 100 tracks per genre.
 
 ## Model Architectures
 
